@@ -1,4 +1,3 @@
-(Will add the screenshots later)
 # LinuxHelper (Old Name: SelfLinux)
 
 <p align="center">
