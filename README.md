@@ -19,8 +19,8 @@ Ok.. this is my first project on github... Introducing to you: LinuxHelper! (It'
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/hardware_scan.png" alt="An example screenshot of the hardware screen" width="400"/>
-  <img src="screenshots/recommendations.png" alt="An example screenshot of the recommendation screen" width="400"/>
+  <img src="hardware.png" alt="An example screenshot of the hardware screen" width="400"/>
+  <img src="recommendation.png" alt="An example screenshot of the recommendation screen" width="400"/>
 </p>
 
 ## 🚀 Installation
