@@ -13,9 +13,7 @@ def get_rufus_path():
     return None
 
 def write_iso_to_usb(iso_path, usb_drive):
-    """
-    Rufus'u CLI modunda kullanarak ISO'yu USB'ye yazar.
-    """
+    
     rufus_path = get_rufus_path()
     cmd = [
         str(rufus_path),
@@ -27,9 +25,7 @@ def write_iso_to_usb(iso_path, usb_drive):
     subprocess.run(cmd, check=True)
 
 def ensure_rufus():
-    """
-    Rufus mevcut mu kontrol eder, yoksa indirme teklif eder.
-    """
+    
     rufus_path = get_rufus_path()
     if not rufus_path or not os.path.exists(rufus_path):
         if messagebox.askyesno(
