@@ -1,5 +1,5 @@
 (Will add the screenshots later)
-# LinuxHelper
+# LinuxHelper (Old Name: SelfLinux)
 
 <p align="center">
   <img src="logo.png" alt="LinuxHelper Logo" width="200"/>
