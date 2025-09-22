@@ -25,8 +25,7 @@ Ok.. this is my first project on github... Introducing to you: LinuxHelper! Linu
 ## 🚀 Installation
 
 1. Download the project from the github site
-2. Head to the "dist" directory.
-3. You should find the "LinuxHelper.exe" in there. Go ahead and run it with admin privileges.
+2. Go ahead and run the LinuxHelper.exe with admin privileges.
 Note: If the .exe gives library error, you need to install these 4 libraries: pillow (for showing the distros's logos in the recommendation screen), tkinter (for GUI), Psutil (for probing most of your hardware) and finally GPutil (for probing your GPU model). You can install each of them with the `pip install <library>` command.
 
 ## System Requirements
