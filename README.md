@@ -2,7 +2,7 @@
 # LinuxHelper
 
 <p align="center">
-  <img src="screenshots/logo.png" alt="LinuxHelper Logo" width="200"/>
+  <img src="logo.png" alt="LinuxHelper Logo" width="200"/>
 </p>
 
 Ok.. this is my first project on github... Introducing to you: LinuxHelper! (It's old name was selflinux but I changed it to LinuxHelper now) LinuxHelper is an intelligent Linux distribution recommender and USB installer that analyzes your hardware and preferences to suggest the most suitable Linux distributions for your system.
