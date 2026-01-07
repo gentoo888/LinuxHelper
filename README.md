@@ -41,7 +41,7 @@ Note: If the .exe gives library error, you need to install these 4 libraries: pi
 1. **Hardware Analysis**: LinuxHelper scans your system's CPU, GPU, RAM, and storage
 2. **Preference Selection**: Choose your usage needs and visual preferences
 3. **Recommendation Engine**: Intelligent algorithm suggests the most suitable distributions
-4. **ISO Download**: Downloads your selected distribution' s ISOfrom my Google drive server (The versions in my Google Drive may be outdated, so after you install the distribution, update your system!! )) 
+4. **ISO Download**: Downloads your selected distribution' s ISOfrom my Google drive server (The versions in my Google Drive may be outdated, so after you install the distribution, update your system!! )
 5. **USB Writing**: Creates a bootable USB drive with your chosen distribution
 6. **Reboot Option**: Optionally reboot directly to BIOS/boot menu
 
