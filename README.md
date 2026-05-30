@@ -30,6 +30,7 @@ python iso_resolver.py "Fedora Workstation"
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/95d8ac7f-dffc-4351-b46a-d203d2170e58" />
 <h4>Hardware Screen</h4>
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/2e1305b8-1920-4d57-932c-ecc4f711c254" />
+<p>(Excuse my specs btw 😭🙏🥀)</p>
 <h4>Preferences Screen</h4>
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/4a49c932-d6cd-42bc-905a-180bfdc415ca" />
 <h4>Recommendation Screen</h4>
